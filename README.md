@@ -1,3 +1,2 @@
-# Alfarooqy6.github.io
-
+#Beginners
 scholarship application
