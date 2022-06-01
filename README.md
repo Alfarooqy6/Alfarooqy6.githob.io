@@ -1,2 +1,1 @@
-#Beginners
-scholarship application
+Beginners
